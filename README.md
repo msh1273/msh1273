@@ -3,7 +3,7 @@
 안녕하세요! 문석호입니다. <br>
 ✏ 어제보다 성장한 오늘을 만들기 위해 꾸준히 기록해 나가고 있습니다.
 
-🌱 I’m currently learning Java, Spring
+🌱 I’m currently learning Java, Spring, oracle, PL/SQL
 
 <hr>
 
