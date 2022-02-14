@@ -4,29 +4,6 @@
 ✏ 어제보다 성장한 오늘을 만들기 위해 꾸준히 기록해 나가고 있습니다.
 
 🌱 I’m currently learning Java, Spring, oracle, PL/SQL
-
-<hr>
-
-### 🛠 Tech Stack
-<div align=center>
-  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=007396"/>
-  <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=6DB33F"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=SpringBoot&logoColor=6DB33F"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=HTML5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=1572B6"/>
-  <br>
-  <img src="https://img.shields.io/badge/Python-skyblue?style=flat&logo=Python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Flask-gray?style=flat&logo=Flask&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=Git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker&logoColor=2496ED"/>
-</div>
-
 <hr>
 
 ### 🎢 Analysis
